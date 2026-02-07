@@ -1,0 +1,1637 @@
+
+
+
+
+<!doctype html>
+<html lang="ja">
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://camp.potepan.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+  <meta charset="UTF-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+  >
+  <meta
+    http-equiv="X-UA-Compatible"
+    content="ie=edge"
+  >
+
+  <script>
+    window.addEventListener('load', function() {
+      (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.defer=true;
+        j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TR5BGK5');
+    });
+  </script>
+ 
+
+  <title>
+    未経験からのWebエンジニア転職スクール｜ポテパンキャンプ  </title>
+
+  <meta
+    name="description"
+    content="Webエンジニア輩出No1！実践的なカリキュラムと経験豊富なエンジニア陣がレベルの高いプログラミング学習をサポートします。実績豊富なメンバーがプログラミング学習からエンジニア転職までまるっとサポートいたします！"
+  >
+  <meta
+    name="keywords"
+    content="プログラミングスクール,プログラミング学習,プログラミング学校,プログラミングオンラインスクール,エンジニア転職"
+  />
+
+  <!-- favicon -->
+  <link
+    rel="icon"
+    type="image/png"
+    href="/wp-content/themes/potepancamp/potepancampfavicon16.ico"
+    sizes="16x16"
+  >
+  <link
+    rel="icon"
+    type="image/png"
+    href="/wp-content/themes/potepancamp/potepancampfavicon32.ico"
+    sizes="32x32"
+  >
+
+  <!-- OGP -->
+  <meta
+    property="og:site_name"
+    content="未経験からのWebエンジニア転職スクール｜ポテパンキャンプ"
+  />
+  <meta
+    property="og:title"
+    content="未経験からのWebエンジニア転職スクール｜ポテパンキャンプ"
+  />
+  <meta
+    property="og:description"
+    content="Webエンジニア輩出No1！実践的なカリキュラムと経験豊富なエンジニア陣がレベルの高いプログラミング学習をサポートします。実績豊富なメンバーがプログラミング学習からエンジニア転職までまるっとサポートいたします！"
+  />
+  <meta
+    property="og:type"
+    content="website"
+  />
+  <meta
+    property="og:url"
+    content="https://camp.potepan.com/"
+  />
+  <meta
+    property="og:image"
+    content="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/ogp/common.png"
+  >
+  <meta
+    property="twitter:image"
+    content="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/ogp/common.png"
+  />
+  <meta
+    name="twitter:card"
+    content="summary_large_image"
+  >
+
+  <!-- verification -->
+  <meta
+    name="facebook-domain-verification"
+    content="g6pxb7zbok42zjj6slizc4wy8m4z3z"
+  />
+  <meta
+    name="google-site-verification"
+    content="SO2a2pf5K6NucVqFn_NmKvJLk-2yfPYeSriF59fmJhg"
+  />
+
+  <link
+    rel="preload"
+    href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/free-under-29/hero.webp"
+    as="image"
+  >
+
+  <link
+    rel="preload"
+    href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/free-under-29/hero-sp.webp"
+    as="image"
+  >
+
+  <meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/camp.potepan.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" href="https://camp.potepan.com/wp-includes/css/dist/block-library/style.min.css">
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/reset.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/style.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/snack-bar.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/blog.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/top.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/loading.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/slick.css">
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/slick-theme.css">
+<script src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/scripts/libs/jquery-3.4.1.min.js" id="jquery-3.4.1.min.js-js"></script>
+<link rel="https://api.w.org/" href="https://camp.potepan.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://camp.potepan.com/xmlrpc.php?rsd" />
+</head>
+
+<body class="page-top">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR5BGK5"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <header class="Header Header--common ">
+    <div class="HeaderContainer">
+      <a
+        class="HeaderLogo"
+        href="/"
+      >
+        <img
+          class="HeaderLogo__image HeaderLogo__image--pc lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/header-logo.png"
+          alt="POTEPAN CAMP"
+        >
+
+        <img
+          class="HeaderLogo__image HeaderLogo__image--sp lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/header-logo-sp.png"
+          alt="POTEPAN CAMP"
+        >
+      </a>
+
+      <nav class="HeaderNav">
+        <div class="HeaderNavHamburger jsc-hamburger">
+          <span class="HeaderNavHamburger__line"></span>
+          <span class="HeaderNavHamburger__line"></span>
+          <span class="HeaderNavHamburger__line"></span>
+        </div>
+
+        <ul class="HeaderNavList jsc-hamburger-list">
+          <li class="HeaderNavListItem">
+            <a class="HeaderNavListItem__link " href="/content">
+              <span>CONTENT</span>
+              <span>学習内容</span>
+            </a>
+          </li>
+
+          <li class="HeaderNavListItem">
+            <a class="HeaderNavListItem__link " href="/interview">
+              <span>INTERVIEW</span>
+              <span>受講生の声</span>
+            </a>
+          </li>
+
+          <li class="HeaderNavListItem">
+            <a class="HeaderNavListItem__link " href="/faq">
+              <span>FAQ</span>
+              <span>よくある質問</span>
+            </a>
+          </li>
+
+          <li class="HeaderNavListItem">
+            <a class="HeaderNavListItem__link " href="/recruit">
+              <span>RECRUIT</span
+              ><span>採用企業様へ</span>
+            </a>
+          </li>
+
+          <li class="HeaderNavListItem">
+            <a class="HeaderNavListItem__link " href="/courses/free-under-29">
+              <span>U29</span
+              ><span>29歳以下の方へ</span>
+            </a>
+          </li>
+
+          <li class="HeaderNavListItem">
+            <a
+              href="/contact"
+              class="HeaderNavListItem__button"
+            >
+              無料カウンセリング
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+<main>
+  <!-- 01.firstview -->
+  <section class="FirstView">
+  <img
+    class="FirstView__bg-image FirstView__bg-image--left-rectangle lazy"
+    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20348%20348'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/left-rectangle.svg"
+    alt="三角形（左上）"
+    width="348"
+    height="348"
+  >
+
+  <img
+    class="FirstView__bg-image FirstView__bg-image--right-rectangle lazy"
+    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20348%20348'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/right-rectangle.svg"
+    alt="三角形（右下）"
+    width="348"
+    height="348"
+  >
+
+  <img
+    class="FirstView__bg-image FirstView__bg-image--fill-rectangle lazy"
+    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/fill-rectangle.svg"
+    alt="長い円形"
+  >
+
+  <img
+    class="FirstView__bg-image FirstView__bg-image--main-visual lazy"
+    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20775%20775'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/main-visual.webp"
+    alt="メインビジュアル"
+    width="775"
+    height="auto"
+  >
+
+  <img
+    class="FirstView__whole-image lazy"
+    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/whole-visual.webp"
+    alt="メインビジュアル"
+  >
+
+  <div class="FirstView__container">
+    <div class="FirstViewContent">
+      <h2 class="FirstViewContent__title">
+        実践的カリキュラムと<br>
+        豊富な提携求人で<br>
+        確実にITエンジニアへ
+
+        <img
+          class="FirstViewContent__badge-image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20204%20204'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/badge.svg"
+          alt="Webエンジニア輩出No.1"
+          width="204"
+          height="204"
+        >
+      </h2>
+
+      <a
+        href="/contact"
+        class="FirstViewContent__button"
+      >
+        まずは無料カウンセリングへ
+      </a>
+
+      <p class="FirstViewContent__caption">
+        ※ショッパーズアイ「プログラミングスクール10社を対象にしたサイト比較イメージ調査<br>
+        （2020 年 5 月 22 日～25 日）」より全国の22～49歳の男女691名へのインターネット調査
+      </p>
+    </div>
+  </div>
+</section>
+
+  <!-- 02.POTEPAN CAMPとは -->
+  <div class="AboutWrapper">
+  <section class="AboutSection">
+    <div class="AboutSection__title">
+      <h2>
+        Webエンジニアになるための<br>最高の環境がここに。
+      </h2>
+    </div>
+
+    <div class="AboutPointContainer">
+      <div class="AboutPoint">
+        <img
+          class="AboutPoint__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/about/point_01.jpg"
+          alt="AIが搭載された最先端学習システム"
+        >
+
+        <p class="AboutPoint__text">
+          AIが搭載された<br>
+          最先端学習システム
+        </p>
+      </div>
+
+      <div class="AboutPoint">
+        <img
+          class="AboutPoint__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/about/point_02.jpg"
+          alt="業界トップクラスの卒業生向け開発求人数"
+        >
+
+        <p class="AboutPoint__text">
+          業界トップクラスの<br>
+          卒業生向け開発求人数
+        </p>
+      </div>
+
+      <div class="AboutPoint">
+        <img
+          class="AboutPoint__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/about/point_03.jpg"
+          alt="無制限で使える学習/転職サポート"
+        >
+
+        <p class="AboutPoint__text">
+          無制限で使える<br>
+          学習/転職サポート
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+
+  <!-- 03.学習システム -->
+  <div class="LearningSystemWrapper">
+  <section class="LearningSystem">
+    <div class="LearningSystem__title">
+      <h2>
+        学習効率がグンと上がる<br>AI搭載学習システム
+      </h2>
+    </div>
+
+    <div class="LearningSystemDetail">
+      <div class="LearningSystemDetail__image-wrapper">
+        <img
+          class="LearningSystemDetail__bg-image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/bg-image.svg"
+          alt="AIチャット"
+        >
+
+        <img
+          class="LearningSystemDetail__image LearningSystemDetail__image--active lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/aichat.png"
+          data-image="aichat"
+          alt="AIチャット"
+        >
+
+        <img
+          class="LearningSystemDetail__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/editor.png"
+          data-image="editor"
+          alt="エディター&AIコードレビュー"
+        >
+
+        <img
+          class="LearningSystemDetail__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/tutorial.png"
+          data-image="tutorial"
+          alt="解説動画"
+        >
+      </div>
+
+      <ul class="LearningSystemDetailList">
+        <li class="LearningSystemDetailListItem LearningSystemDetailListItem--active" data-target="aichat">
+          <h3 class="LearningSystemDetailListItem__title">AI Chat</h3>
+
+          <img
+            class="LearningSystemDetailListItem__image lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/aichat.png"
+            alt="AIチャット"
+          >
+
+          <p class="LearningSystemDetailListItem__description">
+            今まで先生に手をあげて質問していた様な事が、ポテパンキャンプでは気になる部分を選択するだけですぐにAIに質問して解決する事ができます。
+          </p>
+        </li>
+
+        <li class="LearningSystemDetailListItem" data-target="editor">
+          <h3 class="LearningSystemDetailListItem__title">エディター&AIコードレビュー</h3>
+
+          <img
+            class="LearningSystemDetailListItem__image lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/editor.png"
+            alt="エディター&AIコードレビュー"
+          >
+
+          <p class="LearningSystemDetailListItem__description">
+            カリキュラムで学習したことを画面を切り替えずにすぐに試すことが可能です。また、書いたコードをAIにレビューしてもらうことで良質なフィードバックを貰えます。
+          </p>
+        </li>
+
+        <li class="LearningSystemDetailListItem" data-target="tutorial">
+          <h3 class="LearningSystemDetailListItem__title">解説動画</h3>
+
+          <img
+            class="LearningSystemDetailListItem__image lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/learning-system/tutorial.png"
+            alt="解説動画"
+          >
+
+          <p class="LearningSystemDetailListItem__description">
+            テキストだけでは理解が難しいポイントには解説動画をご用意しております。
+          </p>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>
+
+<script>
+const images = document.querySelectorAll('.LearningSystemDetail__image');
+const listItems = document.querySelectorAll('.LearningSystemDetailListItem');
+
+listItems.forEach(function(listItem) {
+  listItem.addEventListener('click', function() {
+    const target = this.getAttribute('data-target');
+
+    listItems.forEach(function(item) {
+      item.classList.remove('LearningSystemDetailListItem--active');
+    });
+
+    listItem.classList.add('LearningSystemDetailListItem--active');
+
+    images.forEach(function(img) {
+      img.classList.remove('LearningSystemDetail__image--active');
+    });
+
+    document.querySelector(`.LearningSystemDetail__image[data-image="${target}"]`).classList.add('LearningSystemDetail__image--active');
+  });
+});
+</script>
+
+  <!-- 04.提携企業 -->
+  <div class="FvPartnerCorporationWrapper">
+  <section class="FvPartnerCorporation">
+    <div class="FvPartnerCorporation__title">
+      <h2>
+        業界トップクラスの<br>卒業生向け開発企業求人数
+      </h2>
+    </div>
+
+    <p class="FvPartnerCorporation__description">
+      2,700社以上のエンジニア採用企業と取引しているポテパンだからこそ卒業生向けの求人を豊富にご紹介することが可能です。<br>
+      ポテパンキャンプでは開発経験の積める企業様のみと提携しております。
+    </p>
+
+    <section class="FvPartnerCorporationDetail">
+      <ul class="FvPartnerCorporationList">
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/01.png"
+            alt="紹介先企業その1"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/02.png"
+            alt="紹介先企業その2"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/03.png"
+            alt="紹介先企業その3"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/05.png"
+            alt="紹介先企業その5"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/06.png"
+            alt="紹介先企業その6"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/07.png"
+            alt="紹介先企業その7"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/09.png"
+            alt="紹介先企業その9"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/11.png"
+            alt="紹介先企業その11"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item sm-hidden">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/10.png"
+            alt="紹介先企業その10"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item sm-hidden">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/17.png"
+            alt="紹介先企業その17"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item sm-hidden">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/18.png"
+            alt="紹介先企業その18"
+          >
+        </li>
+
+        <li class="FvPartnerCorporationList__item sm-hidden">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/partner-corporation/19.png"
+            alt="紹介先企業その19"
+          >
+        </li>
+      </ul>
+
+      <div class="FvPartnerCorporationMerit">
+        <h3 class="FvPartnerCorporationMerit__title">提携求人のメリット</h3>
+
+        <ul class="FvPartnerCorporationMeritList">
+          <li class="FvPartnerCorporationMeritListItem">
+            <span class="FvPartnerCorporationMeritListItem__number">1</span>
+
+            <p class="FvPartnerCorporationMeritListItem__text">
+              開発経験が積めて<br>
+              教育体制のある企業のみ<br>
+              を厳選紹介
+            </p>
+          </li>
+
+          <li class="FvPartnerCorporationMeritListItem">
+            <span class="FvPartnerCorporationMeritListItem__number">2</span>
+
+            <p class="FvPartnerCorporationMeritListItem__text">
+              エントリーから<br>
+              内定まで<br>
+              早い求人が多い
+            </p>
+          </li>
+
+          <li class="FvPartnerCorporationMeritListItem">
+            <span class="FvPartnerCorporationMeritListItem__number">3</span>
+
+            <p class="FvPartnerCorporationMeritListItem__text">
+              一般には公開されて<br>
+              いない求人が多い
+            </p>
+          </li>
+
+          <li class="FvPartnerCorporationMeritListItem">
+            <span class="FvPartnerCorporationMeritListItem__number">4</span>
+
+            <p class="FvPartnerCorporationMeritListItem__text">
+              卒業生が実際に<br>
+              活躍している企業も<br>
+              あるから安心
+            </p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <div class="FvPartnerCorporationReviews">
+      <div class="FvPartnerCorporationReview">
+        <div class="FvPartnerCorporationReviewImage">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/partner-corporation/reviews/01.png"
+            alt="紹介先企業その1"
+          >
+
+          <span>
+            T.Sさん 27歳<br>
+            前職：医療クリニック勤務
+          </span>
+
+          <p class="FvPartnerCorporationReviewComment__description FvPartnerCorporationReviewComment__description--sp">
+            業務未経験では応募できる企業も少ないだろうと考えていたのですが予想と反してとてもたくさんの企業を紹介していただき、エントリー開始してから1週間で2社から内定をいただけました。書類、面接、ポートフォリオ、全てを確認しアドバイスをいただいたことで自信をもって応募することができたことも良かったです。
+          </p>
+        </div>
+
+        <div class="FvPartnerCorporationReviewComment">
+          <span class="FvPartnerCorporationReviewComment__tag FvPartnerCorporationReviewComment__tag--graduate">卒業生の声</span>
+
+          <h3 class="FvPartnerCorporationReviewComment__title">提携企業が多いから<br>スピード内定が実現</h3>
+
+          <p class="FvPartnerCorporationReviewComment__description FvPartnerCorporationReviewComment__description--pc">
+            業務未経験では応募できる企業も少ないだろうと考えていたのですが予想と反してとてもたくさんの企業を紹介していただき、エントリー開始してから1週間で2社から内定をいただけました。書類、面接、ポートフォリオ、全てを確認しアドバイスをいただいたことで自信をもって応募することができたことも良かったです。
+          </p>
+        </div>
+      </div>
+
+      <div class="FvPartnerCorporationReview">
+        <div class="FvPartnerCorporationReviewImage">
+          <img
+            class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/partner-corporation/reviews/02.png"
+            alt="紹介先企業その1"
+          >
+
+          <span>
+            株式会社グロービス<br>
+            末永 昌也 氏
+          </span>
+
+          <p class="FvPartnerCorporationReviewComment__description FvPartnerCorporationReviewComment__description--sp">
+            入社直後からキャッチアップが非常にはやく、入社1-2年後にはグロービスの開発チームにはなくてはならない存在になってくれています。現在もプロダクトのグロースに伴う追加機能の開発や新規事業において積極的に開発投資をしていますので、これからもポテパンキャンプ卒業生を採用していきたいと思っています。
+          </p>
+        </div>
+
+        <div class="FvPartnerCorporationReviewComment">
+          <span class="FvPartnerCorporationReviewComment__tag FvPartnerCorporationReviewComment__tag--corporation">採用企業の声</span>
+
+          <h3 class="FvPartnerCorporationReviewComment__title">入社直後から<br>キャッチアップが非常にはやい</h3>
+
+          <p class="FvPartnerCorporationReviewComment__description FvPartnerCorporationReviewComment__description--pc">
+            入社直後からキャッチアップが非常にはやく、入社1-2年後にはグロービスの開発チームにはなくてはならない存在になってくれています。現在もプロダクトのグロースに伴う追加機能の開発や新規事業において積極的に開発投資をしていますので、これからもポテパンキャンプ卒業生を採用していきたいと思っています。
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+  <!-- 05.学習/転職サポート -->
+  <div class="SupportWrapper">
+  <section class="Support">
+    <div class="Support__title">
+      <h2>
+        無制限で使える実績豊富な<br>学習/転職サポート
+      </h2>
+    </div>
+
+    <ul class="SupportList">
+      <li class="SupportListItem">
+        <span class="SupportListItem__header">学習サポート</span>
+
+        <img
+          class="SupportListItem__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/support/01.jpg"
+          alt="学習サポート"
+        >
+
+        <div class="SupportPointWrapper">
+          <ul class="SupportPointList">
+            <li class="SupportPointList__item">
+              現役エンジニアによるコードレビュー
+            </li>
+
+            <li class="SupportPointList__item">
+              無制限の質問サポート
+            </li>
+
+            <li class="SupportPointList__item">
+              学習に躓いたときのオンラインMTG
+            </li>
+
+            <p class="SupportListItem__caption">
+              ※2021年10月〜2022年11月データ
+            </p>
+          </ul>
+
+          <div class="SupportSatisfaction">
+            <span class="SupportSatisfaction__label">満足度</span>
+            <span class="SupportSatisfaction__data">
+              95<span class="SupportSatisfaction__unit">%</span>
+            </span>
+          </div>
+        </div>
+      </li>
+
+      <li class="SupportListItem">
+        <span class="SupportListItem__header">転職サポート</span>
+
+        <img
+          class="SupportListItem__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/support/02.jpg"
+          alt="転職サポート"
+        >
+
+        <div class="SupportPointWrapper">
+          <ul class="SupportPointList">
+            <li class="SupportPointList__item">
+              卒業生限定の求人紹介
+            </li>
+
+            <li class="SupportPointList__item">
+              履歴書/経歴書添削サポート
+            </li>
+
+            <li class="SupportPointList__item">
+              ポートフォリオ制作サポート
+            </li>
+
+            <li class="SupportPointList__item">
+              面談練習サポート
+            </li>
+
+            <p class="SupportListItem__caption">
+              ※2021年10月〜2022年11月データ
+            </p>
+          </ul>
+
+          <div class="SupportSatisfaction">
+            <span class="SupportSatisfaction__label">満足度</span>
+            <span class="SupportSatisfaction__data">
+              100<span class="SupportSatisfaction__unit">%</span>
+            </span>
+          </div>
+        </div>
+      </li>
+    </ul>
+
+    <div class="SupportInterviewSection">
+      <p class="SupportInterview__question SupportInterview__question--sp">
+        コードレビューはいかがでしたか？
+      </p>
+
+      <div class="SupportInterviewImage">
+        <img
+          class="SupportInterviewImage__image lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/support/interview.png"
+          alt="インタビュー"
+        >
+
+        <span class="SupportInterviewImage__label">卒業生</span>
+      </div>
+
+      <div class="SupportInterview">
+        <p class="SupportInterview__question SupportInterview__question--pc">
+          コードレビューはいかがでしたか？
+        </p>
+
+        <p class="SupportInterview__answer">
+          実際に今実務をしているのですが、ここまで丁寧なコードレビューをして貰ってないので、とても貴重な経験になりました。ただ動くだけじゃなくて綺麗なコードを書くという視点から見ていただいたのもありがたかったです。その辺りは今の実務でも活きていると感じます。
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+
+  <!-- 06.ブログ -->
+  <div class="BlogsWrapper">
+  <section class="Blogs">
+    <div class="Blogs__title">
+      <h2>
+        ブログ
+      </h2>
+
+      <p>
+        企業さまへのインタビューや<br>運営会社の裏側を発信
+      </p>
+    </div>
+
+    <ul class="BlogList">
+      <li class="BlogListItem">
+        <a href="/blogs/957">
+          <div class="BlogListItem__image-wrapper">
+            <img
+            class="BlogListItem__image lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/blogs/01.webp"
+            alt="採用企業インタビュー①"
+            >
+          </div>
+
+          <p class="BlogListItem__title">
+            「GMOメディア株式会社」卒業生採用企業インタビュー
+          </p>
+        </a>
+      </li>
+
+      <li class="BlogListItem">
+        <a href="/blogs/982">
+          <div class="BlogListItem__image-wrapper">
+            <img
+              class="BlogListItem__image lazy"
+              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/blogs/02.webp"
+              alt="採用企業インタビュー②"
+            >
+          </div>
+
+          <p class="BlogListItem__title">
+            卒業生も登場！DX急成長企業「アルサーガパートナーズ株式会社」卒業生採用企業インタビュー
+          </p>
+        </a>
+      </li>
+
+      <li class="BlogListItem">
+        <a href="/blogs/940">
+          <div class="BlogListItem__image-wrapper">
+            <img
+              class="BlogListItem__image lazy"
+              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/blogs/03.webp"
+              alt="採用企業インタビュー③"
+            >
+          </div>
+
+          <p class="BlogListItem__title">
+            イチゴ栽培からITエンジニアへ転職成功！入社後1年でリーダーとして活躍！
+          </p>
+        </a>
+      </li>
+    </ul>
+  </section>
+</div>
+
+  <!-- 07.MESSAGE -->
+  <div class="MessageWrapper">
+  <div class="MessageContainer">
+    <img
+      class="MessageContainer__image lazy"
+      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/message/ceo.png"
+      alt="代表取締役社長 宮崎大地"
+    >
+
+    <section class="Message">
+      <h3 class="Message__title">MESSAGE</h3>
+
+      <p class="Message__body">
+        技術の急速な進歩の中で、変化に対応する能力は今後のキャリアに大きく影響します。新技術が次々と誕生するこの時代に、どの技術を学び、どのように進めるべきかを決めるのは一筋縄ではいきません。ポテパンキャンプは、この問題に対する解決策を提供します。市場で求められる技術を、実用的かつ理解しやすい方法で学べる環境がここにあります。ポテパンキャンプで新しい技術を身につけ、あなたのキャリアと生活をさらに豊かにしましょう。
+      </p>
+
+      <span>
+        代表取締役社長&nbsp;&nbsp;宮﨑大地
+      </span>
+    </section>
+  </div>
+</div>
+
+  <!-- 08.POTEPANCAMPのコース -->
+  <div class="CourseListWrapper">
+  <section class="CourseList">
+    <div class="CourseList__title">
+      <h2>
+        料金
+      </h2>
+
+      <p>未経験からの転職実績豊富なコースをご用意</p>
+    </div>
+
+    <ul>
+  <li class="CourseListItem">
+    <a
+      class="CourseListItem__link"
+      href="/content"
+    >
+      <div class="CourseNameSection">
+        <h3 class="CourseNameSection__title">
+          Railsキャリア<br>コース
+        </h3>
+      </div>
+
+      <div class="CourseContentSection">
+        <p class="CourseContentSection__description">
+          未経験からエンジニアになるためのエキスパートコース
+        </p>
+
+        <dl class="CourseDescriptionList">
+          <dt class="CourseDescriptionList__dt">
+            料金
+          </dt>
+
+          <dd class="CourseDescriptionList__dd">
+            440,000円(税込)
+          </dd>
+        </dl>
+
+        <dl class="CourseDescriptionList">
+          <dt class="CourseDescriptionList__dt">
+            期間
+          </dt>
+
+          <dd class="CourseDescriptionList__dd">
+            5ヶ月間(20週間)
+          </dd>
+        </dl>
+
+        <p class="CourseContentSection__link">
+          詳しくはこちら
+        </p>
+      </div>
+    </a>
+  </li>
+</ul>
+
+    <section
+  class="AboutSubsidyApplication"
+  id="AboutSubsidyApplication"
+>
+  <h3 class="AboutSubsidyApplication__title">
+    お得な給付制度について
+  </h3>
+
+  <div class="SubsidyIntroduction">
+    <img
+      class="SubsidyIntroduction__logo lazy"
+      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/subsidy_introduction/reskilling-logo.png"
+      alt="リスキリングロゴ"
+    >
+
+    <div class="SubsidyIntroduction__body">
+      <p>
+        ポテパンキャンプは経済産業省リスキリングを通じたキャリアアップ支援事業の対象スクールです。補助金を利用することで、受講料の最大70%の支給を受けることが可能です。<br>
+        在職者であり、雇用主の変更を伴う転職を目指している方であれば、正社員、契約・派遣社員、パートやアルバイトの方など、幅広くご利用いただけます。
+      </p>
+
+      <p>
+        給付金受取詳細事項は無料カウンセリング時にお伝えいたします
+      </p>
+    </div>
+  </div>
+
+  <section class="CourseFeeWithSubsidy">
+    <div class="CourseFeeWithSubsidyContainer">
+      <h4 class="CourseFeeWithSubsidy__title">
+        Railsキャリアコース 受講料
+      </h4>
+
+      <div class="CourseFeeWithSubsidy__images">
+        <img
+          class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/subsidy_introduction/price-440000yen.svg"
+          alt="440000円（税込）"
+        >
+
+        <img
+          class="CourseFeeWithSubsidy__discount CourseFeeWithSubsidy__discount--pc lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/subsidy_introduction/price-70off-pc.svg"
+          alt="70%OFF"
+        >
+
+        <img
+          class="CourseFeeWithSubsidy__discount CourseFeeWithSubsidy__discount--sp lazy"
+          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/subsidy_introduction/price-70off-sp.svg"
+          alt="70%OFF"
+        >
+
+        <img
+          class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/subsidy_introduction/price-160000yen.svg"
+          alt="160000円（税込）"
+        >
+      </div>
+
+      <p class="CourseFeeWithSubsidy__amount">
+        最大 280,000円 支給<span>※</span>
+      </p>
+
+      <p class="CourseFeeWithSubsidy__detail">
+        受講を修了した場合に講座の受講費用の50%相当額を支給。<br>
+        受講を経て実際に転職し、その後1年間継続的に転職先に就業していることを確認できる場合に追加的に講座の受講費用の20%相当額を支給。
+      </p>
+
+      <p class="CourseFeeWithSubsidy__caption">
+        ※受講料400,000円（税別）の70%
+      </p>
+    </div>
+  </section>
+
+  <section class="SubsidyCondition">
+    <div class="SubsidyConditionContainer">
+      <h4 class="SubsidyCondition__title">
+        受給の主な条件
+      </h4>
+
+      <ul class="SubsidyConditionList">
+        <li class="SubsidyConditionList__item">
+          <span class="SubsidyConditionList__marker">•</span>
+
+          <p>
+            本登録時に在職者（企業等と雇用契約を締結している者） であること
+          </p>
+
+          <div class="Tooltip">
+            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/contact/tooltip.svg">
+
+            <span class="Tooltip__text">
+              本登録時及び、カウンセリング時に在職者であることが必要となります。<br>
+              なお、在職者とは、企業等と雇用契約を締結している者を指します。
+            </span>
+          </div>
+        </li>
+
+        <li class="SubsidyConditionList__item">
+          <span class="SubsidyConditionList__marker">•</span>
+
+          <p>
+            雇用主の変更を伴う転職を目指していない方に該当しないこと
+          </p>
+
+          <div class="Tooltip">
+            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/contact/tooltip.svg">
+
+            <span class="Tooltip__text">
+              雇用主の変更を伴う転職を目指していない方<br>
+              （リスキリング講座の受講のみが目的の方等）<br>
+              は、支援の対象とできません。
+            </span>
+          </div>
+        </li>
+      </ul>
+
+      <p class="SubsidyCondition__caption">
+        ※詳細は無料カウンセリングにてご確認ください。<br>
+        ※国家公務員及び地方公務員の方は対象外となります。
+      </p>
+    </div>
+  </section>
+</section>
+
+    <a
+      href="/contact"
+      class="CourseList__button"
+    >
+      <span>COUNSELING</span><span>無料カウンセリングはこちら</span>
+    </a>
+  </section>
+</div>
+
+  <!-- 09.他スクールとの比較 -->
+  <div class="ComparisonTableWrapper">
+  <section class="ComparisonTableSection">
+    <div class="ComparisonTableSection__title">
+      <h2>
+        他スクールとの比較
+      </h2>
+
+      <p>
+        POTEPAN CAMPで学ぶメリット
+      </p>
+    </div>
+
+    <p class="ComparisonTableSection__scroll-message">
+      横にスクロールして下さい
+
+      <img
+        class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/scroll-animation.gif"
+        alt="スクロールアニメーション"
+      >
+    </p>
+
+    <div class="ComparisonTableContainer">
+      <table class="ComparisonTable">
+        <tr>
+          <th></th>
+          <th>
+            <img
+              class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/header-logo.png"
+              alt="ポテパンキャンプ"
+              style="width: 166px;"
+            >
+          </th>
+          <th>A社</th>
+          <th>B社</th>
+        </tr>
+
+        <tr>
+          <th>
+            カリキュラム
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="二重丸"
+              >
+
+              <span class="ComparisonTableData__point">AI搭載カリキュラム</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/bad-icon.svg"
+                alt="バツ印"
+              >
+
+              <span>テキストのみ</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/bad-icon.svg"
+                alt="バツ印"
+              >
+
+              <span>テキストのみ</span>
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            卒業後の求人
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="二重丸"
+              >
+
+              <span class="ComparisonTableData__point">開発企業に厳選</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/not-good-icon.svg"
+                alt="三角印"
+              >
+
+              <span>開発できない求人も有り</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/bad-icon.svg"
+                alt="バツ印"
+              >
+
+              <span>主に開発できない求人</span>
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            実際に開発する課題数
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="二重丸"
+              >
+
+              <span class="ComparisonTableData__point">15個以上</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/not-good-icon.svg"
+                alt="三角印"
+              >
+
+              <span>8個以下</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/bad-icon.svg"
+                alt="バツ印"
+              >
+
+              <span>無し</span>
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            コードレビュー
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="二重丸"
+              >
+
+              <span class="ComparisonTableData__point">平均30回</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/not-good-icon.svg"
+                alt="三角印"
+              >
+
+              <span>10回以下</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/bad-icon.svg"
+                alt="バツ印"
+              >
+
+              <span>無し</span>
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            学習サポート
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="丸印"
+              >
+
+              <span class="ComparisonTableData__point">毎日質問し放題</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/not-good-icon.svg"
+                alt="三角印"
+              >
+
+              <span>週5日質問し放題</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/not-good-icon.svg"
+                alt="三角印"
+              >
+
+              <span>週5日質問し放題</span>
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            転職サポート
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="丸印"
+              >
+
+              <span class="ComparisonTableData__point">
+                ポートフォリオ対策<br>
+                面接練習<br>
+                提携求人紹介
+              </span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/normal-icon.svg"
+                alt="丸印"
+              >
+
+              <span>
+                面接練習<br>
+                提携求人紹介
+              </span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/not-good-icon.svg"
+                alt="三角印"
+              >
+
+              <span>提携求人紹介</span>
+            </div>
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            料金
+          </th>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="丸印"
+              >
+
+              <span class="ComparisonTableData__price--ours">
+                440,000<span class="ComparisonTableData__tax">円</span>
+              </span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/normal-icon.svg"
+                alt="丸印"
+              >
+
+              <span>600,000円</span>
+            </div>
+          </td>
+
+          <td>
+            <div class="ComparisonTableData">
+              <img
+                class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/comparison-table/good-icon.svg"
+                alt="丸印"
+              >
+
+              <span>200,000円</span>
+            </div>
+          </td>
+        </tr>
+      </table>
+
+      <div class="EmphasizeCircle"></div>
+    </div>
+
+    <a
+      href="/contact"
+      class="ComparisonTableSection__link-button"
+    >
+      <span>COUNSELING</span><span>無料カウンセリングはこちら</span>
+    </a>
+  </section>
+</div>
+
+  <!-- 10.他コースのご案内 -->
+  <div class="OtherCoursesWrapper">
+  <section class="OtherCoursesSection">
+    <div class="OtherCoursesSection__title">
+      <h2>
+        ポテパンキャンプの<br>他コースのご案内
+      </h2>
+    </div>
+
+    <div class="OtherCoursesDetailsContainer">
+      <a href="/courses/free-under-29">
+        <section class="OtherCoursesDetails">
+          <img
+            class="OtherCoursesDetails__course-logo OtherCoursesDetails__course-logo--pc lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/other-courses/u29.png"
+            alt="U29コース"
+          >
+
+          <img
+            class="OtherCoursesDetails__course-logo OtherCoursesDetails__course-logo--sp lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/other-courses/u29-sp.png"
+            alt="U29コース"
+          >
+
+          <div class="OtherCoursesIntroduction">
+            <h3 class="OtherCoursesIntroduction__title">U29コース</h3>
+
+            <p class="OtherCoursesIntroduction__sub-title">
+              29歳以下無料のITエンジニア転職スクール<br>
+              3ヶ月間の学習 + 転職サポート
+            </p>
+
+            <p class="OtherCoursesIntroduction__link">
+              詳しくはこちら
+            </p>
+          </div>
+        </section>
+      </a>
+
+      <a href="/courses/business-ai">
+        <section class="OtherCoursesDetails">
+          <img
+            class="OtherCoursesDetails__course-logo OtherCoursesDetails__course-logo--pc lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/other-courses/business-ai.png"
+            alt="ビジネスAIコース"
+          >
+
+          <img
+            class="OtherCoursesDetails__course-logo OtherCoursesDetails__course-logo--sp lazy"
+            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/other-courses/business-ai-sp.png"
+              alt="ビジネスAIコース"
+            >
+
+          <div class="OtherCoursesIntroduction">
+            <h3 class="OtherCoursesIntroduction__title">ビジネスAIコース</h3>
+
+            <p class="OtherCoursesIntroduction__sub-title">
+              事業成長に特化したAI活用スクール<br>
+              1ヶ月間の学習 + 週1回ミーティング
+            </p>
+
+            <p class="OtherCoursesIntroduction__link">
+              詳しくはこちら
+            </p>
+          </div>
+        </section>
+      </a>
+    </div>
+  </section>
+</div>
+</main>
+
+
+<div class="FixedFooter js-FixedFooter">
+  <a href="/#AboutSubsidyApplication">
+    <img
+      class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/fixed-footer/subsidy-announcement.png"
+      alt="今なら160,000円で受講可能!"
+    />
+  </a>
+</div>
+
+<footer class="Footer js-Footer">
+  <div class="FooterContainer">
+    <ul class="FooterList">
+      <li class="FooterList__item">
+        <p>30歳以上でエンジニアを目指すなら</p>
+        <a href="/content">
+          Railsキャリアコース
+        </a>
+      </li>
+
+      <li class="FooterList__item">
+        <p>20代でエンジニアを目指すなら</p>
+        <a href="/courses/free-under-29">
+          U29コース
+        </a>
+      </li>
+
+      <li class="FooterList__item">
+        <p>シンプルで実践的なJava企業研修なら</p>
+        <a href="/trainings/java">
+          Java実践研修コース
+        </a>
+      </li>
+    </ul>
+
+    <div class="FooterListAndCharacter">
+      <ul class="FooterList">
+        <li class="FooterList__item">
+          <a href="/blogs">
+            ブログ
+          </a>
+        </li>
+
+        <li class="FooterList__item">
+          <a href="/company">
+            会社概要
+          </a>
+        </li>
+
+        <li class="FooterList__item">
+          <a href="https://style.potepan.com/" target="_blank", rel=”noreferrer noopener”>
+            プログラミング学習メディア
+          </a>
+        </li>
+
+        <li class="FooterList__item">
+          <a href="/recruit">
+            卒業生採用について
+          </a>
+        </li>
+
+        <li class="FooterList__item">
+          <a href="/training">
+            企業研修
+          </a>
+        </li>
+      </ul>
+
+      <img
+        class="FooterListAndCharacter__character lazy"
+        src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/footer-potepanda.png"
+        alt="ポテパンダ"
+      >
+    </div>
+
+    <address class="FooterInfo">
+      <a
+        href="/"
+        class="FooterInfo__logo"
+      >
+        <img
+          class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/footer-logo.png"
+          alt="POTEPAN CAMP"
+        >
+      </a>
+
+      <p class="FooterInfo__company-name">株式会社ポテパン</p>
+
+      <p class="FooterInfo__address">
+        〒150-6207<br>
+        東京都渋谷区桜丘町1-4<br>
+        渋谷サクラステージSHIBUYAサイドSHIBUYAタワー7F      </p>
+
+      <ul class="FooterSocialList">
+        <li class="FooterSocialList__item">
+          <a
+            href="https://www.facebook.com/potepan1/"
+            target="_blank"
+            rel=”noreferrer noopener”
+          >
+            <img
+              class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/footer-social-facebook.png"
+              alt="Facebook"
+            >
+          </a>
+        </li>
+
+        <li class="FooterSocialList__item">
+          <a
+            href="https://twitter.com/potepan0901"
+            target="_blank"
+            rel=”noreferrer noopener”
+          >
+            <img
+              class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/footer-social-twitter.png"
+              alt="Twitter"
+            >
+          </a>
+        </li>
+
+        <li class="FooterSocialList__item">
+          <a
+            href="https://www.youtube.com/@potepanda"
+            target="_blank"
+            rel=”noreferrer noopener”
+          >
+            <img
+              class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/footer-social-youtube.png"
+              alt="YouTube"
+            >
+          </a>
+        </li>
+      </ul>
+
+      <small class="FooterCopyright">
+        &copy;2014-2026 POTEPAN.INC.
+      </small>
+    </address>
+  </div>
+
+  <div class="FooterCopyrightContainer">
+  </div>
+</footer>
+
+<link rel="stylesheet" href="https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/fixed-footer.css">
+<script defer src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/scripts/libs/slick.js" id="slick.js-js"></script>
+<script defer src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/scripts/main.js" id="main.js-js"></script>
+<script defer src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/scripts/snackBar.js" id="snackBar.js-js"></script>
+<script defer src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/scripts/fixedFooter.js" id="fixedFooter.js-js"></script>
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://camp.potepan.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+N/A 経由のコンテンツ配信ネットワーク (CDN)
+Lazy Loading
+Disk を使用してデータベースキャッシュ
+
+Served from: camp.potepan.com @ 2026-01-28 15:34:45 by W3 Total Cache
+-->
